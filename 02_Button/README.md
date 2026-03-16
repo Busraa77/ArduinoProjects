@@ -5,7 +5,7 @@ Projenin amacı butona basıldığında LED'i yakacak bir pull-down devre oluşt
 ### *Devre Elemanları*
 * LED
 * Buton
-* 10k Ohm'luk direnç
+* 10 kOhm'luk direnç
 
 
 ### Devrenin Kurulumu
