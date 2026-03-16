@@ -18,5 +18,9 @@ Butona basıldığında 5V hattı buton üzerinden pini besler; bu hat direnç h
 
 
 
+
+https://github.com/user-attachments/assets/de4ac764-8bd7-469f-9a00-cab8d71f6612
+
+
 https://github.com/user-attachments/assets/a771849c-1c2c-41dc-afb0-5bbe1ca18b6d
 
