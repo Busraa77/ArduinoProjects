@@ -14,8 +14,6 @@ Bu üç ana rengin farklı oranlarda karıştırılmasıyla (PWM tekniği kullan
 
 Dijital pinlerle ana renkler, PWM (analogWrite) pinleriyle ise ara renkler oluşturulur.
 
-Önemli Not: Dirençlerin her bir renk bacağına (R, G, B) ayrı ayrı bağlanması gerekir. Ortak bacağa tek bir direnç takılması, renklerin parlaklık dengesini bozar ve LED'e zarar verebilir.
-
 
 ### Devre Elemanları
 
