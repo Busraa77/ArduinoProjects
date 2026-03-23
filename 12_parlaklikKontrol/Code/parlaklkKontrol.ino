@@ -12,6 +12,5 @@ void loop() {
   Serial.print("deger :");
   Serial.println(deger);
   int sonDeger = constrain(deger,0,1023);
-  int parlaklik = map(sonDeger,0,1023,0,255); // 0-2 saniye arasında bir bekleme süresi
-  analogWrite(led,parlaklik);
+  int parlaklik = map(sonDeger,0,1023,0,255); 
 }
